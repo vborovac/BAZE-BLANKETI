@@ -2,3 +2,5 @@
 
 2.U SQL upitima gde se kasnije koristi kreirani pogled, umesto korišćenja formata (RELACIJA).(ATRIBUT), pravilno je koristiti samo (ATRIBUT). Na primer, umesto TRENER.ID, koristiti samo ID, ili umesto KLUB.NAZIV, koristiti samo NAZIV.
 
+3.Ne mogu garantovati potpunu tačnost rešenja; preporučujem da kodove proverite samostalno.
+
